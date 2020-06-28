@@ -1,5 +1,7 @@
 {
   "name": "zoomSample",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
