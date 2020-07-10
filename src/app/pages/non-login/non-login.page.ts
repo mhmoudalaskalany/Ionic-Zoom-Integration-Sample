@@ -8,7 +8,7 @@ import {Zoom} from '@ionic-native/zoom/ngx';
   styleUrls: ['non-login.page.scss']
 })
 export class NonLoginPage {
-  // [Warning] In production environment, please DO NOT hardcode your credentials. This is just for demo purpose.
+  // [Warning] In production environment, please DO NOT hard-code your credentials. This is just for demo purpose.
   // Token variables (Retrieve from Rest API)
   zoomToken = '';
   zoomAccessToken = '';
